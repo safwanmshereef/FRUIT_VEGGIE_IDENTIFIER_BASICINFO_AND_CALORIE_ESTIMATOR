@@ -6,5 +6,8 @@ and you need to install some python extensions too like streamlit,opencv,tensorf
 after successfull installation, open the terminal of vscode or pycharm and enter this code 'py -m streamlit run main.py'.
 
 *IMP STEP*
-you need to train the model using google colab i'll share the drive link   
-and now return to the next readme file on training model folder
+you need to download the trained_model.h5 to the folder which all the files are present.
+as github limits upload size i've uploaded the files in gdrive hope you can use it all
+for any doubts contact me
+
+https://drive.google.com/drive/folders/1PYp4dLrJDDuMmXw7wB7n_8d9nOTprI0w?usp=sharing
